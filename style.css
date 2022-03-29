@@ -1,0 +1,11 @@
+.text-color{
+    color: #a71a42 ;
+}
+.bg-color{
+    background-color: #bb365cd8;
+}
+ .btn-hover:hover{
+    background-color: white;
+    color: #a71a42;
+    border: 1px solid #a71a42;
+}
